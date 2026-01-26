@@ -9,4 +9,7 @@ Python for "Beginners"
 
 Learning for Aumin
 '''
+
+
+print(course)
 print(course)
